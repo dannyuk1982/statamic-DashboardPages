@@ -11,10 +11,10 @@ Show pages in the dashboard
       limit: 5
 ```
 
-# LICENSE
+# License
 
 [MIT License](http://emd.mit-license.org/)
 
-# HELP IMPROVE THIS
+# Help improve this!
 
 This could be much better, it would be good to have a `New Page` button, also some bits in the blade template (like title and edit URL) are hard coded, there must be a better way!
